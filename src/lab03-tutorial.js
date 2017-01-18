@@ -8,6 +8,7 @@ function sum(n){
 	}	
 }
 
+// I have no idea what this 
 //example:
 //	sum(4) => 4 + 3 + 2 + 1 + 0 = 10
 
